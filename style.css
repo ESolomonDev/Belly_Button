@@ -1,0 +1,16 @@
+.jumbotron {
+	background-image: url("bbmicrobes.jpg");
+	background-size: 100%;
+    text-align: center;
+    color:rgb(205, 195, 212);
+    text-shadow: 10px;
+    font: Sans-Serif;
+}
+.overimg{
+    /* background: rbg(0,0,0); */
+    /* background: rbga(0,0,0,0.7); */
+    bottom: 10px;
+    left: 10px;
+    background: rgba(0, 0, 0, 0.75);
+    padding: 4px 8px;
+}
